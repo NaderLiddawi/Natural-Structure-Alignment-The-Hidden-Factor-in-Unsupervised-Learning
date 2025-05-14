@@ -1,7 +1,7 @@
-README.txt for Assignment 3  
+README  
 ===============================================================================
 
-Assignment 3 – Unsupervised Learning and Dimensionality Reduction   
+Unsupervised Learning and Dimensionality Reduction   
 
 
 -------------------------------------------------------------------------------
