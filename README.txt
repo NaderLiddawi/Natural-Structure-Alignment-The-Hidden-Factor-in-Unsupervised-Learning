@@ -82,9 +82,7 @@ To execute the code and reproduce the results, follow these detailed steps:
    1. **Clone the Repository:**
       - Open a command prompt (on Windows) or terminal (on Linux).
       - Run:
-            git clone https://github.gatech.edu/gt-omscs-ml/cs-7641-2025-spring-nliddawi3.git
-      - Navigate to the `Assignment-3` folder:
-            cd cs-7641-2025-spring-nliddawi3/Assignment-3
+            git clone https://github.com/NaderLiddawi/Natural-Structure-Alignment-The-Hidden-Factor-in-Unsupervised-Learning.git
 
    2. **Set Up the Python Environment:**
       - Create a virtual environment:
